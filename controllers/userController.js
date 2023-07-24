@@ -115,4 +115,4 @@ export const getMe = async (req, res) => {
 			message: 'Нет доступа.',
 		});
 	}
-};
+}; 6
